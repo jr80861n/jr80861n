@@ -4,7 +4,7 @@ Fullstack Developer
 -------------------
 
 * 🌍  I'm based in New York City
-* ✉️  You can contact me at [jr80861n@pace.edu](mailto:jr80861n@pace.edu)
+* ✉️  You can contact me at [jrios0226@gmail.com](mailto:jrios0226@gmail.com)
 * 🧠  I'm learning on How to develop Android Apps
 * 🤝  I'm open to collaborating on any projects
 * ⚡  Pronouns: He/Him
