@@ -1,6 +1,6 @@
 
 
-Fullstack Developer
+Full Stack Developer
 -------------------
 
 * 🌍  I'm based in New York City
