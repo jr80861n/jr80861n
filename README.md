@@ -1,6 +1,6 @@
 
 
-Full Stack Developer
+Frontend Developer
 -------------------
 
 * 🌍  I'm based in New York City
